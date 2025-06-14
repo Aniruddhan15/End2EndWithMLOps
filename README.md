@@ -1,3 +1,3 @@
 # End2EndWithMLOps
 
-Complete Project for ML Prediction 
+Complete END-2-END Project for ML Prediction, followed by MLOPS
